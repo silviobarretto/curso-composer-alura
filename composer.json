@@ -39,6 +39,7 @@
     ]
   },
   "scripts-descriptions": {
-    "check": "Roda as verificações do código. PHAN, PHPCS, PHPUNIT"
+    "check": "Roda as verificações do código. PHAN, PHPCS, PHPUNIT",
+    "cs": "Roda as verificações do código. PHPCS"
   }
 }
